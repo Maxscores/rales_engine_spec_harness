@@ -25,9 +25,3 @@ bundle exec rake
 
 2 runs, 112 assertions, 0 failures, 0 errors, 0 skips
 ```
-
-__Configuring App Host__
-
-```
-BASE_URL=http://my-app-url.com rake
-```
