@@ -6,7 +6,7 @@ functionality on student implementations of the
 project at Turing.
 
 ## Installation
-
+  
 To use this repository, simply clone it onto your machine and bundle:
 
 ```
